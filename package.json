@@ -1,0 +1,21 @@
+{
+  "name": "cs50",
+  "version": "1.0.0",
+  "description": "odin project cs part",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "vitest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@eslint/js": "^9.0.0",
+    "eslint": "^9.0.0",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-jsdoc": "^48.2.3",
+    "prettier": "^3.2.5",
+    "vitest": "^1.5.0"
+  }
+}
